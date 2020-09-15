@@ -9,7 +9,7 @@ RentStevens is a rental platform targeting Stevens students. Different from the 
 
 ### Persona: Primary
 - Katelyn
-Is a graduate student of stevens
-Has a lot of homework to do
-came to America for the first time
-Need to do a lot of reserach
+Is a graduate student of stevens  
+Has a lot of homework to do  
+came to America for the first time  
+Need to do a lot of reserach  
